@@ -1,4 +1,7 @@
 Ujikom Paket 2
 
 
-cara penggunaan : 
+Ikuti langkah-langkah dibawah ini : 
+
+Installasi : Laravel
+- composer create-project --prefer-dist laravel/laravel blog "5.7.*"
